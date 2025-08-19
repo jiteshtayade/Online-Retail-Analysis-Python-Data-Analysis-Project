@@ -20,7 +20,5 @@ Business Insights
 
 1. UK accounted for ~80% of sales revenue.
 2. Top 5 products contributed ~25% of total revenue.
-
-High-value loyal customers identified with RFM Score 9–12.
-
-38% customers at risk of churn, enabling data-driven retention strategies.
+3. High-value loyal customers identified with RFM Score 9–12.
+4. 38% customers at risk of churn, enabling data-driven retention strategies.
