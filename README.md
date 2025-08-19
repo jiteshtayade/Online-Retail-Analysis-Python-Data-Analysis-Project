@@ -16,6 +16,13 @@ Tools & Libraries
 1. Python (Pandas, NumPy, Matplotlib)
 2. Jupyter Notebook
 
+Dataset
+The project uses the Online Retail dataset (UCI Machine Learning Repository). It contains:
+- Transactions Table → InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+~500,000 transaction records across 2010–2011
+~9,000 unique customers from 37 countries
+Covers product-level sales and customer purchase history
+
 Business Insights
 
 1. UK accounted for ~80% of sales revenue.
